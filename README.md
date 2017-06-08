@@ -1,0 +1,3 @@
+# ICG
+Interactive computer graphics examples
+This is an interactive graphics program which allows the user to draw dots via a mouse device. The program draws the trajectory of the mouse motion in the form of independent dots when the left mouse button is pressed. The dots are red with size 10 pixel. The program stops drawing the trajectory when the button is released. When the right button is pressed the dots will be blue  and in size 15 pixel and when the button is released the drawing is stopped.The program clears the drawing when the user double-click on the canvas.The default canvas color is black. When the mouse is over the canvas the color changes to gray. Once the mouse is outside the canvas the color will resume the default color.
